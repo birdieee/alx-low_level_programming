@@ -26,5 +26,3 @@ return (last_digit);
 }
 
 }
-Footer
-© 2023 GitHub, Inc.
