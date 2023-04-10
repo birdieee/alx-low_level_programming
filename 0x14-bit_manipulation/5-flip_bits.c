@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * flip_bits -program  returns the number of bits you would needed to flip to get from one number to another.
- * @n: number one
- * @m: number two
+ * flip_bits - program  returns the number of bits you would needed to flip to get from one number to another.
+ * @n: number one.
+ * @m: number two.
  *
  * Return: number of bits.
  */
