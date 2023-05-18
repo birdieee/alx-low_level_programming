@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * print_dlistint - program prints all the elements of a
+ * print_dlistint - prints all the elements of a
  * dlistint_t list by Simbiat Lola.
  *
  * @h: head of the list.
