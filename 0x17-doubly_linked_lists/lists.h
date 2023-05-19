@@ -5,12 +5,12 @@
 #include <stdlib.h>
 
 /**
- * struct dlistint_s - doubly linked list.
- * @n: integer.
- * @prev: program points to the previous node.
- * @next: program points to the next node.
+ * struct dlistint_s - doubly linked list
+ * @n: integer
+ * @prev: points to the previous node
+ * @next: points to the next node
  *
- * Description: doubly linked list node structure.
+ * Description: doubly linked list node structure
  * by Simbiat Lola
  */
 typedef struct dlistint_s
