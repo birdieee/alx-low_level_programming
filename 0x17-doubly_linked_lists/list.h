@@ -11,7 +11,6 @@
  * @next: points to the next node
  *
  * Description: doubly linked list node structure
- * By Simbiat Lola
  */
 typedef struct dlistint_s
 {
