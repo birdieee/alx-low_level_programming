@@ -32,12 +32,12 @@ shash_table_t *shash_table_create(unsigned long int size)
 }
 
 /**
- * add_n_shash - adds a node at the beginning of a shash at a given index.
+ * add_n_shash - adds a node at the beginning of a shash at a given index
  *
- * @h: head of the shash linked list.
- * @key: key of the shash.
- * @value: value to store.
- * Return: created node.
+ * @h: head of the shash linked list
+ * @key: key of the shash
+ * @value: value to store
+ * Return: created node
  */
 shash_node_t *add_n_shash(shash_node_t **h, const char *key, const char *value)
 {
@@ -214,10 +214,10 @@ void shash_table_print(const shash_table_t *ht)
 
 /**
  * shash_table_print_rev - prints the keys and values of the shash table
- * in reverse.
+ * in reverse
  *
  * @ht: pointer to the shash table
- * Return: no return.
+ * Return: no return
  */
 void shash_table_print_rev(const shash_table_t *ht)
 {
@@ -243,10 +243,10 @@ void shash_table_print_rev(const shash_table_t *ht)
 }
 
 /**
- * shash_table_delete - deletes a shash table.
+ * shash_table_delete - deletes a shash table
  *
- * @ht: pointer to the shash table.
- * Return: no return.
+ * @ht: pointer to the shash table
+ * Return: no return
  */
 void shash_table_delete(shash_table_t *ht)
 {
